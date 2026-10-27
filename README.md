@@ -4,7 +4,7 @@
 **Estudiantes:**
 - Jacobo Ropero Ramírez — jacobo.ropero@autonoma.edu.co
 - Santiago Rueda Muriel — santiago.ruedam@autonoma.edu.co
-- Juan José Noriega — juanj.noriegal@autonoma.edu.co
+- Juan José Noriega — juanj.noriegal@autonoma.edu.co - Desertó
 
 ---
 
